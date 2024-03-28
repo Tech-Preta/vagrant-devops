@@ -108,6 +108,7 @@ sudo chmod +x install-opentofu.sh
 
 # Instalando o zsh
 sudo apt-get install zsh -y
+```
 
 ## Contribuição
 
